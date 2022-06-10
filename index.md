@@ -18,8 +18,8 @@ I personally use [Netlify](https://www.netlify.com/) most of the time, but I use
    
 ## Difference between PAID & FREE web-hosting
    - Why do there have to be paid web-hosting services, if there can be free ones, am I right?... Check these articles out:
-       - [Free vs Paid Hosting - Hostgator](https://www.hostgator.com/blog/free-hosting-vs-paid-hosting/)
-       - [Free Hosting Vs Paid Hosting : Know The 10 Remarkable Differences by Milesweb](https://www.milesweb.in/blog/hosting/free-hosting-vs-paid-hosting-know-the-10-remarkable-differences/)
+       - [Hostgator: Free vs Paid Hosting](https://www.hostgator.com/blog/free-hosting-vs-paid-hosting/)
+       - [Milesweb: Free Hosting Vs Paid Hosting : Know The 10 Remarkable Differences](https://www.milesweb.in/blog/hosting/free-hosting-vs-paid-hosting-know-the-10-remarkable-differences/)
 
 
 
