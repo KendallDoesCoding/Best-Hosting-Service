@@ -16,7 +16,7 @@ I personally use [Netlify](https://www.netlify.com/) most of the time, but I use
    - If you want to go to the paid option, there are many out there.. I haven't really gotten into PAID hosting, so you can [check this article out](https://www.quicksprout.com/best-web-hosting/)
    
    
-   ## Difference between PAID & FREE web-hosting
+## Difference between PAID & FREE web-hosting
    - Why do there have to be paid web-hosting services, if there can be free ones, am I right?... Check these articles out:
        - [Free vs Paid Hosting - Hostgator](https://www.hostgator.com/blog/free-hosting-vs-paid-hosting/)
        - [Free Hosting Vs Paid Hosting : Know The 10 Remarkable Differences by Milesweb](https://www.milesweb.in/blog/hosting/free-hosting-vs-paid-hosting-know-the-10-remarkable-differences/)
