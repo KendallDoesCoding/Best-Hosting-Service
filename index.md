@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## How to choose a hosting service for your website?
 
-You can use the [editor on GitHub](https://github.com/KendallDoesCoding/Best-Hosting-Service/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- There are a lot of FREE and PAID hosting services out there, sometimes it gets a little hard choosing which one is right for you, so in this blog, I will let you know which one is good for you and the benefits.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What I use
+I personally use [Netlify](https://www.netlify.com/) most of the time, but I use [Vercel](https://vercel.com/) sometimes.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What You Should Use 
+- FREE:
+  - If you just want to deploy your HTML, CSS, JS to a website, I highly suggest using [GitHub Pages](https://pages.github.com/) or [Netlify](https://www.netlify.com)...
 
-```markdown
-Syntax highlighted code block
+  - If you want to Deploy Flask, or something of that sort, you can use [Heroku](herokuapp.com) and I also believe you can use [Vercel](https://vercel.com)
 
-# Header 1
-## Header 2
-### Header 3
+- PAID:
+   - If you want to go to the paid option, there are many out there.. I haven't really gotten into PAID hosting, so you can [check this article out](https://www.quicksprout.com/best-web-hosting/)
+   
+   
+   ## Difference between PAID & FREE web-hosting
+   - Why do there have to be paid web-hosting services, if there can be free ones, am I right?... Check these articles out:
+       - [Free vs Paid Hosting - Hostgator](https://www.hostgator.com/blog/free-hosting-vs-paid-hosting/)
+       - [Free Hosting Vs Paid Hosting : Know The 10 Remarkable Differences by Milesweb](https://www.milesweb.in/blog/hosting/free-hosting-vs-paid-hosting-know-the-10-remarkable-differences/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KendallDoesCoding/Best-Hosting-Service/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
