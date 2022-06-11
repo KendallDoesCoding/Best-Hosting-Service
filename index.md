@@ -7,12 +7,12 @@ I personally use [Netlify](https://www.netlify.com/) most of the time, but I use
 
 
 ## What You Should Use 
-- FREE:
+ FREE SERVICES:
   - If you just want to deploy your HTML, CSS, JS to a website, I highly suggest using [GitHub Pages](https://pages.github.com/) or [Netlify](https://www.netlify.com)...
 
   - If you want to Deploy Flask, or something of that sort, you can use [Heroku](herokuapp.com) and I also believe you can use [Vercel](https://vercel.com)
 
-- PAID:
+ PAID SERVICES:
    - If you want to go to the paid option, there are many out there.. I haven't really gotten into PAID hosting, so you can [check this article out](https://www.quicksprout.com/best-web-hosting/)
    
    
