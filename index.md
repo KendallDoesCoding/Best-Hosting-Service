@@ -1,3 +1,7 @@
+/*
+Title: Best Hosting Service
+*/
+
 ## How to choose a hosting service for your website?
 
 - There are a lot of free and paid hosting services out there. Sometimes it gets a little hard to choose which one is right for you, so in this blog, I will let you know which one is good for you and the benefits.
