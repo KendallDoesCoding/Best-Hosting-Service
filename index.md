@@ -1,6 +1,4 @@
-/*
-Title: Best Hosting Service
-*/
+# Best Hosting Service
 
 ## How to choose a hosting service for your website?
 
